@@ -11,7 +11,7 @@ This Java project implements and demonstrates three array algorithms:
 ## 📁 Project Structure
 
 <pre>
-project-root/
+SearchAndSort/
 │
 ├── src/
 | ├── SearchAndSort.java # Implements search and sort algorithms with main() method
