@@ -36,9 +36,3 @@ A variation of bubble sort that performs passes from both ends of the array. Ret
 Implements a simple selection sort. Modifies the array in place.
 
 ---
-
-## 🚀 How to Run
-
-Compile and run using any Java 8+ environment. This project does **not** require any external libraries.
-
-```bash
