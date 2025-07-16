@@ -42,5 +42,3 @@ Implements a simple selection sort. Modifies the array in place.
 Compile and run using any Java 8+ environment. This project does **not** require any external libraries.
 
 ```bash
-javac Chapter14Lab.java
-java Chapter14Lab
